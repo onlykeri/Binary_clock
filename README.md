@@ -1,4 +1,4 @@
-# Free
+# Binary Clock
 
 #English translation
 Anyone can see it.
